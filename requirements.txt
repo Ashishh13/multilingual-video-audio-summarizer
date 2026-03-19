@@ -1,0 +1,13 @@
+streamlit>=1.33.0
+moviepy>=1.0.3
+pydub>=0.25.1
+openai-whisper>=20231121
+transformers>=4.39.0
+torch>=2.1.0
+langdetect>=1.0.9
+yake>=0.4.8
+networkx>=3.1
+matplotlib>=3.8.2
+sentencepiece>=0.1.99
+pytest>=7.4.0
+scipy>=1.11.0
